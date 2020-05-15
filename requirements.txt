@@ -1,0 +1,11 @@
+pytorch_ignite==0.3.0
+numpy==1.16.2
+torch==1.6.0.dev20200513+cu101
+tqdm==4.41.1
+pymorphy2==0.8
+colorama==0.4.1
+ftfy==5.6
+Unidecode==1.1.1
+regex==2020.1.8
+ignite==1.1.0
+razdel==0.5.0
