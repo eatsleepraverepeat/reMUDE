@@ -6,7 +6,7 @@
 The original paper introduce  a  robust  word  recognition framework  that  captures multi-level sequential dependencies in noised sentence. Practical application of such framework addresses to a challenging task of [Grammatical Error Correction](https://en.wikipedia.org/wiki/Grammar_checker) and [improving robustness of modern NLP setups](https://arxiv.org/abs/1905.11268).
 
 Model architecture:
-<p align='center'><img width='1024' src='https://i.ibb.co/2jK20VW/mude-arc.png'/></p>
+<p align='center'><img width='512' src='https://i.ibb.co/2jK20VW/mude-arc.png'/></p>
 
 # Why
 Despite a clearly written paper the released [original code](https://github.com/zw-s-github/MUDE) lacks of structure, guidance and reproducibility. There are also critical bugs found by community members in original implementation. Here's my attempt to organize bits and pieces in intuitive way.
