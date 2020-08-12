@@ -24,7 +24,7 @@ So I took it seriously and has trained/evaluated experimental runs on low size c
 # Train, evaluation
 All hyperparameter values in those runs are copied from original code. Experiment runs evaluated wrt to noise type in terms of Word Recognition Accuracy on test split.
 
-Result table are shown below. 
+Result table is shown below. 
 |PER   |DEL   |INS   |SUB   |W-PER |W-DEL |W-INS |W-SUB |
 |-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |0.998 |0.976 |0.987 |0.974 |0.998 |0.956 |0.987 |0.965 |
