@@ -1,5 +1,5 @@
 pytorch_ignite==0.3.0
-numpy==1.16.2
+numpy==1.22.0
 torch==1.6.0.dev20200513+cu101
 tqdm==4.41.1
 pymorphy2==0.8
